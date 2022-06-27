@@ -1,0 +1,113 @@
+#a1
+
+{
+  background-image: url(rest.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding-bottom: 15%;
+}
+#a11
+{
+    background-color: chocolate;color: white;
+    font-size: xx-large;
+    margin-right: 90%;
+    width: 100%;
+    text-align: left;
+
+}
+#food-text
+{
+   color: white; 
+padding-top: 10%;
+margin-left: 5%;
+display: grid;
+}
+span
+{
+   display: block;
+   column-width: 30%; 
+}
+#p1
+{
+  float:right;
+  margin-right: 70%;
+  color: white;
+   
+}#z1
+{
+  color: red;
+  display: inline;
+}
+#x1
+{
+  display: block;
+  color: red;
+  text-decoration-line: underline;color: red;
+}
+
+#b1{
+
+   
+background-color: white;
+
+}
+.image{
+  float: left;
+  width: 30%;
+  padding: 10px;
+  
+}
+.image #pic1
+{
+  width: 100%;
+  height: 300px;
+  margin-right: 10%;
+}
+
+.image #pic2
+{
+  width: 100%;
+  height: 300px;
+  margin-right: 10%;
+  margin-top: 15%;
+}
+
+  
+h1{
+  /* box-sizing: border-box 1px solid yellow; */
+  background-color: yellow;
+  color: black;
+  text-align: center;
+}
+.img
+{
+  background-image:url(rest3.jpg);
+  background-size: cover;
+  position: relative;
+  top: 400px;
+  height: 50%;
+  width: 95%;
+  padding-right: 5%;
+  padding-bottom: 50%;
+
+
+}
+
+.row
+{
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  display: flex;
+  /* float: left; */
+}
+.row{
+  -ms-flex: 3;  /* IE 10 */  
+  flex: 3;
+  width: 100%;
+  height: 300px;
+  /* margin-right: 10%; */
+
+  
+}
